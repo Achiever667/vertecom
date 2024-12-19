@@ -1,6 +1,11 @@
 <x-app-layout>
     <section class="mt-50 mb-50">
         <div class="container">
+        <div class="search-style-1 flex-grow px-20 d-none d-sm-block m-10">
+                    <form action="{{ route('home') }}" class="w-100">
+                        <input id="search" name="search" type="text" placeholder="Search for any product, category, brand..."/>
+                    </form>
+                </div>
             <div class="row">
                 @include('livewire.sidebar')
                 <div class="col-lg-9">
