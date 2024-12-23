@@ -107,7 +107,7 @@
                             <div class="w-100">
                                 <div class=" rounded-xl cart-totals">
                                     <div class="mb-3">
-                                        <h1 class="font-bold text-lg tracking-widest text-orange-500 mb-2 uppercase">
+                                        <h1 class="font-bold text-lg tracking-widest text-indigo-500 mb-2 uppercase">
                                             Cart total</h1>
                                     </div>
                                     <div class="table-responsive">

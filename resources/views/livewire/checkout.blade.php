@@ -106,7 +106,7 @@
                                     <input type="radio" id="cod" name="payment" value="cod"
                                         class="hidden peer" required>
                                     <label for="cod"
-                                        class="inline-flex items-center justify-between w-full p-3 text-gray-500 bg-white border border-gray-200 shadow-md rounded-lg cursor-pointer peer-checked:border-orange-500 peer-checked:text-orange-500 hover:text-gray-600 hover:bg-gray-100 ">
+                                        class="inline-flex items-center justify-between w-full p-3 text-gray-500 bg-white border border-gray-200 shadow-md rounded-lg cursor-pointer peer-checked:border-indigo-500 peer-checked:text-indigo-500 hover:text-gray-600 hover:bg-gray-100 ">
                                         <div class="block">
                                             <div class="w-full text-lg font-semibold">Cash on delivery</div>
                                         </div>
@@ -122,7 +122,7 @@
                                     <input type="radio" id="card" name="payment" value="card"
                                         class="hidden peer" required>
                                     <label for="card"
-                                        class="inline-flex items-center justify-between w-full p-3 text-gray-500 bg-white border border-gray-200 shadow-md rounded-lg cursor-pointer peer-checked:border-orange-500 peer-checked:text-orange-500 hover:text-gray-600 hover:bg-gray-100 ">
+                                        class="inline-flex items-center justify-between w-full p-3 text-gray-500 bg-white border border-gray-200 shadow-md rounded-lg cursor-pointer peer-checked:border-indigo-500 peer-checked:text-indigo-500 hover:text-gray-600 hover:bg-gray-100 ">
                                         <div class="block">
                                             <div class="w-full text-lg font-semibold">Pay with card</div>
                                         </div>
