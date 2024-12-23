@@ -20,6 +20,10 @@ export default {
                 success: colors.green,
                 warning: colors.yellow,
             },
+            zIndex: {
+                '60': '60',   // Adding custom z-index value of 60
+                '70': '70',   // Adding custom z-index value of 70
+              },
         },
     },
 

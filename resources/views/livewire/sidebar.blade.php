@@ -15,7 +15,7 @@
     </div>
    <!-- Categories Dropdown -->
 <div class="widget-category mb-30 rounded-3xl border-slate-200 shadow-md d-lg-block d-none">
-    <h1 class="font-bold text-lg tracking-widest text-orange-500 mb-2 uppercase">Categories</h1>
+    <h1 class="font-bold text-lg tracking-widest text-indigo-500 mb-2 uppercase">Categories</h1>
     <div class="relative">
         <select id="category-dropdown" class="w-full p-2 rounded-md border-slate-200 shadow-md" onchange="window.location.href = this.value;">
             <option value="{{ url()->current() }}">Select Category</option>
@@ -31,7 +31,7 @@
 
 <!-- Filter By Price Dropdown -->
 <div class=" mt-10 sidebar-widget price_range range mb-30 rounded-3xl border-slate-200 shadow-md" style="border-radius: 30px">
-    <h1 class="font-bold text-lg tracking-widest text-orange-500 mb-4 uppercase">Filter by price</h1>
+    <h1 class="font-bold text-lg tracking-widest text-indigo-500 mb-4 uppercase">Filter by price</h1>
     <div class="price-filter">
         <form action="{{ url()->current() }}" method="get">
             <div class="price-filter-inner">
@@ -56,7 +56,7 @@
                     </select>
                 </div>
             </div>
-            <button type="submit" class="btn btn-sm mt-3">Apply Filter</button>
+            <button type="submit" class="btn btn-indigo-700 btn-sm mt-3">Apply Filter</button>
         </form>
     </div>
 </div>
