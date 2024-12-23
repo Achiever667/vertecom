@@ -68,7 +68,7 @@
         </div>
 
         <!-- Mobile Menu (Hidden by default) -->
-        <div class="mobile-menu hidden absolute bg-white p-20 h-100 w-full z-60" id="mobile-menu">
+        <div class="mobile-menu hidden absolute bg-white p-20 h-80 w-full z-60" id="mobile-menu">
             <ul class="space-y-4 py-4">
                 @auth
                     <li><h1 class="text-black font-bold">Hi, {{ Auth::user()->name }}</h1></li>

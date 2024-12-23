@@ -66,9 +66,9 @@
                         </h2>
 
                         <!-- <h1 class="p-20">Vert Ecommerce</h1> -->
-                        <p class="p-0 text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis officiis itaque voluptatibus?</p>
-                        <a href="" class="btn-warning bg-indigo-700 btn">Login</a>
-                        <a href="" class="btn-transparent btn bg-gray-700">Register</a>
+                        <p class="p-0 text-center mt-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis officiis itaque voluptatibus?</p>
+                        <a href="" class="btn-warning bg-indigo-700 btn mt-4">Login</a>
+                        <a href="" class="btn-transparent btn bg-gray-700 mt-4">Register</a>
                     </div>
 </div>
 </div>
